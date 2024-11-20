@@ -1,5 +1,16 @@
 # Changelog
 
+## Release (2024-11-20)
+
+ember-template-imports 4.2.1 (patch)
+
+#### :memo: Documentation
+* `ember-template-imports`
+  * [#269](https://github.com/ember-cli/ember-template-imports/pull/269) Update treesitter links ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+
+#### Committers: 1
+- [@NullVoxPopuli](https://github.com/NullVoxPopuli)
+
 ## Release (2024-11-12)
 
 ember-template-imports 4.2.0 (minor)
